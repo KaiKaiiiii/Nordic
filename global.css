@@ -8,6 +8,7 @@
   font-family: "Merriweather Sans", sans-serif;
   font-size: 62.5%;
   line-height: 1;
+  scroll-behavior: smooth;
 }
 
 * {
@@ -184,6 +185,4 @@ img {
   padding-left: 3rem;
   font-size: 1.4rem;
   color: var(--heading-color);
-  bottom: 0;
-  position: fixed;
 }
